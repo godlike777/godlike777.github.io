@@ -7,7 +7,7 @@ image: '/images/pages/about.jpeg'
 # Welcome to Wang Yan's GitHub Pages
 
 
-## Person Introduction
+## Introduction
 Wang Yan,undergraduate student majoring in Information and Communications Technologies in Southeast University.
 
 
