@@ -13,17 +13,17 @@ Wang Yan,undergraduate student majoring in Information and Communications Techno
 
 ## Interests & Research
 
-### Mobile Edge Computing
-### Block Chain
-### Machine Learning
-### Convex Optimization
-### Mobile Communication
-### Python
-
-<hr>
+1. Mobile Edge Computing
+2. Block Chain
+3. Machine Learning
+4. Convex Optimization
+5. Mobile Communication
+6. Python
 
 ## Contact
 E-mail:wangyan123@seu.edu.cn
+
+<hr>
 
 笔者是东南大学信息工程专业通信方向的一名本科生，硕士也会继续在东南大学读。
 ## 兴趣和研究方向
