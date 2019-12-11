@@ -4,7 +4,7 @@ title: About
 image: '/images/pages/about.jpeg'
 ---
 
-# Welcome to Wang Yan's GitHub Pages
+# Welcome to Wang Yan's GitHub Blog
 
 
 ## Introduction
