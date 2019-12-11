@@ -28,4 +28,4 @@ image: '/images/posts/1.jpg'
 博主大四不是特别的忙，而且毕业设计也刚刚开始，目标是一个星期能够产出一篇，长度不限。也不会为了更新而更新，大部分的时间还是要花在学习新知识上面。
 
 <hr>
-更多了解这个博客和博主可以去看博客的[关于](https://wy-wangyan.github.io/about.html)
+更多了解这个博客和博主可以去看博客的[关于](https://godlike777.github.io/about.html)
