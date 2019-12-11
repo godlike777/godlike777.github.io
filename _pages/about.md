@@ -8,7 +8,7 @@ image: '/images/pages/about.jpeg'
 
 
 ## Person Introduction
-Wang Yan,undergraduate student majoring in Information and Communications Technologies in South East University
+Wang Yan,undergraduate student majoring in Information and Communications Technologies in Southeast University.
 
 
 ## Interests & Research
@@ -19,6 +19,9 @@ Wang Yan,undergraduate student majoring in Information and Communications Techno
 ### Convex Optimization
 ### Mobile Communication
 ### Python
+
+<hr>
+
 ## Contact
 E-mail:wangyan123@seu.edu.cn
 
@@ -31,6 +34,8 @@ E-mail:wangyan123@seu.edu.cn
 5. 移动通信相关的技术
 6. Python
 ## 关于博客
-笔者会尽量分享正在学习的东西和正在看的论文。博客的所有内容都会是原创，就算不是我想出来的也是我自己写出来的。寒假有时间会用[jekyllrb](http://jekyllrb.com/)重新做这个博客，目前这个博客之前实际上有很多个版本，但是这个theme已经算是我最满意的了，看起来简约并且修改起来不麻烦。
+  笔者会尽量分享正在学习的东西和正在看的论文。博客的所有内容都会是原创，就算不是我想出来的也是我自己写出来的。寒假有时间会用[jekyllrb](http://jekyllrb.com/)重新做这个博客，目前这个博客之前实际上有很多个版本，但是这个[theme](http://jekyllthemes.org/page3/)已经算是我最满意的了，看起来简约而且修改起来不麻烦，之前试过很多花里胡哨的主题，但是会因为Github自己的原因，用户访问网页的时候经常CSS加载失败，就没法看到各种样式而且排版混乱，目前的这个博客PC端和移动端阅读都比较适合，我也可以把工作重心放在写作上。
+
+最后，这个博客以及我写的大部分东西都会开源，会放到[我的Github](https://github.com/Wy-wangyan)上。
 
 
