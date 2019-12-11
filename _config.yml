@@ -8,7 +8,7 @@
 # Site settings
 title:       Wang Ya's Blog
 email:       'wangyan123@seu.edu.cn'
-description: ''
+description: 'undergraduate student in Southeast University'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 twitter:     ''
